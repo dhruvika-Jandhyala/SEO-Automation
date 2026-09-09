@@ -1,4 +1,4 @@
-A production‑quality Python application that automates repetitive SEO tasks:
+A Python application that automates repetitive SEO tasks:
 
 Extracts content from a URL, raw article text, or a simple topic prompt.
 Analyses readability, heading hierarchy, image alt tags, link structure, and thin‑content issues.
